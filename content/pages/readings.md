@@ -12,7 +12,7 @@ Bryan, Todd. "Tragedy Averted: The Promise of Collaboration." _Society and Natur
 
 Beratan, Kathi, and Herman Karl. "Managing the Science-Policy Interface in a Complex and Contentious World - A Discussion." (Draft report, not in print.)
 
-Adler, Peter, and Juliana Birkhoff. "Building Trust." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.doi.gov/sites/doi.gov/files/uploads/building_trust_adler_birkhoff.pdf))
+Adler, Peter, and Juliana Birkhoff. "Building Trust." ([PDF](https://www.doi.gov/sites/doi.gov/files/uploads/building_trust_adler_birkhoff.pdf))
 
 Smith, M. Estellie. "Chaos, Consensus and Common Sense." _The Ecologist_ 25, nos. 2 and 3 (1995): 80-85.
 
