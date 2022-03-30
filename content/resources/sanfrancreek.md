@@ -6,6 +6,7 @@ description: This file contains information about San Francisquito Creek?The pro
   A. Karl.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-959-reforming-natural-resources-governance-failings-of-scientific-rationalism-and-alternatives-for-building-common-ground-january-iap-2007/fa2b1281cda50515264625891e6747a7_sanfrancreek.pdf
 file_type: application/pdf
+parent_uid: 7fb9f032-93d3-a1b9-88ff-ef49bf9efd81
 resourcetype: Document
 title: sanfrancreek.pdf
 uid: fa2b1281-cda5-0515-2646-25891e6747a7
